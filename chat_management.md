@@ -38,13 +38,27 @@
 
 ![ChatManagement-Unban](img/ChatManagement-Unban.png)
 
+### پازل Delete chat photo
+
+با استفاده از این پازل عکس کانال یا گروه مورد نظر را پاک می کنید. برای اینکار فقط id کانال یا گروه مورد نظر را در این پازل قرار دهید.
+
+![ChatManagement-Delete-photo](img/ChatManagement-Delete-photo.png)
+
+### پازل Pin chat message
+
+با این پازل پیام مورد نظر خود را pin می کنید. برای اینکار به id پیام مربوطه و کانال یا گروه مورد نظر احتیاج دارید.
+
+![ChatManagement-Pin](img/ChatManagement-Pin.png)
+
+### پازل Unpin chat message
+
+با قرار دادن id کانال یا گروه مورد نظر در این پازل پیام از قبل pin شده در کانال یا گروه را، unpin می کنید.
+
+![ChatManagement-Unpin](img/ChatManagement-Unpin.png)
 
 
 
 
 
 
-
-
-
-توجه کنید که در عکس بالا Message باید از قبل تعریف شده باشد*.
+توجه کنید که در عکس های بالا Message باید از قبل تعریف شده باشد*.
